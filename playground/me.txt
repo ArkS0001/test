@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aakarshit Srivastava 
-Skills: Python,Machine learning and Data Science, Full Stack Development,Java,cpp
-Email: shubh26002@gmail.com
-{{/user}}
